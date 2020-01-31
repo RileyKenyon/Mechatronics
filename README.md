@@ -1,1 +1,2 @@
-# Mechatronics - Group: Cameron, Graham, Mitchell, Riley, Thomas
+# Mechatronics MCEN 5115: 
+Cameron, Graham, Mitchell, Riley, Thomas
