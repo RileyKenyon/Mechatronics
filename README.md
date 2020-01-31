@@ -5,6 +5,6 @@ Cameron, Graham, Mitchell, Riley, Thomas
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 **Useful Commands**:
-  * *workon*      Use virtual environment for python development
-  * *deactivate*  Exit virtual environment
-  * *pinout*  Gives the J8 Pinout for the board
+  * *workon* - Use virtual environment for python development
+  * *deactivate* - Exit virtual environment
+  * *pinout* - Gives the J8 Pinout for the board
