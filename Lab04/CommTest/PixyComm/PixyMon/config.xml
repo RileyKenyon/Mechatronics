@@ -1,0 +1,7 @@
+<PixyMon_parameters>
+ <data key="Document folder" type="STRING" value="/home/pi/Documents/PixyMon"/>
+ <data key="Pixy start command" type="STRING" value="runprogArg 8 1"/>
+ <data key="Highlight overexposure" type="INT8" value="0"/>
+ <data key="Cooked render mode" type="INT8" value="2"/>
+ <data key="Debug" type="INT32" value="0"/>
+</PixyMon_parameters>
